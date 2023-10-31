@@ -1,0 +1,14 @@
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\bin\Debug\net6.0\moshniesiski2.exe
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\bin\Debug\net6.0\moshniesiski2.deps.json
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\bin\Debug\net6.0\moshniesiski2.runtimeconfig.json
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\bin\Debug\net6.0\moshniesiski2.dll
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\bin\Debug\net6.0\moshniesiski2.pdb
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\obj\Debug\net6.0\moshniesiski2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\obj\Debug\net6.0\moshniesiski2.AssemblyInfoInputs.cache
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\obj\Debug\net6.0\moshniesiski2.AssemblyInfo.cs
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\obj\Debug\net6.0\moshniesiski2.csproj.CoreCompileInputs.cache
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\obj\Debug\net6.0\moshniesiski2.dll
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\obj\Debug\net6.0\refint\moshniesiski2.dll
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\obj\Debug\net6.0\moshniesiski2.pdb
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\obj\Debug\net6.0\moshniesiski2.genruntimeconfig.cache
+C:\Users\Roma\source\repos\moshniesiski2\moshniesiski2\obj\Debug\net6.0\ref\moshniesiski2.dll
